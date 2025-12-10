@@ -75,7 +75,7 @@ Bu projeler, sensör kullanımı ve fiziksel çıktı üretme gibi konularda ba�
     led_dimmer.ino
 
 /Park-Sensoru/
-    park_sensoru.ino
+    park_sensor.ino
 
 README.md
 
